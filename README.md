@@ -11,4 +11,4 @@ The app is Dockerized. Please follow the steps to create and run the Docker imag
 4)Run the docker image with port
   docker run -p 8080:8080 divya/t-tdddemo
 5)Check the application is running by accessing REST API
-  http://localhost:8080/swagger.html
+  http://localhost:8080/swagger-ui.html
